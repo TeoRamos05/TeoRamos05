@@ -14,4 +14,4 @@
 
 
 ### 📈 My GitHub Stats
-![Teofilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
+![Teofilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=TeoRamos05&show_icons=true&theme=radical)
